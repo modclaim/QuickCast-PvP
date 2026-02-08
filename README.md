@@ -1,6 +1,6 @@
 # QuickCast PvP
 
-**QuickCast PvP** is a lightweight **client-side Fabric mod** for **Minecraft Java 1.21.1** that lets you instantly quick-use PvP items/actions with a **middle mouse click** — then (by default) **restores your previous hotbar slot** for smooth combos.
+**QuickCast PvP** is a lightweight **client-side Fabric mod** for **Minecraft Java** that lets you instantly quick-use PvP items/actions with a **middle mouse click** — then (by default) **restores your previous hotbar slot** for smooth combos.
 
 🔗 GitHub: https://github.com/modclaim/QuickCast-PvP
 
